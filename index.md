@@ -5,7 +5,7 @@
 layout: single
 author_profile: false
 header:
-    image: /assets/images/blog-images/nyu-header.png
+    image: /assets/images/blog-images/nyu-header.jpg
 sidebar:
   nav: false
 classes: wide
