@@ -5,13 +5,11 @@
 layout: single
 author_profile: false
 header:
-    image: /assets/images/blog-images/nyush-header2.png
+    image: /assets/images/blog-images/nyu-header.png
 sidebar:
   nav: false
 classes: wide
 ---
-
-*NYUSH AI Summer Course Webiste*
 
 ## Course Overview
 
@@ -24,7 +22,4 @@ classes: wide
 | **Day7: Advanced topics on Computer Vision** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_8.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-8/#demos) |
 | **Day8: Neural Language Modeling** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_9.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-9/#demos) |
 
-## Instructors
 
-| ![wilson]({{ site.url }}{{ site.baseurl }}/assets/images/ml-summer-school/wilson.jpg){: style="width: 80%;"} 
-| **[Wilson Tam](https://cs.shanghai.nyu.edu/faculty/yik-cheung-tam-tanyizhang)** | 
