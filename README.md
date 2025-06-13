@@ -1,1 +1,1 @@
-[Course Website](https://jenniferfjy.github.io/nyush-ai-summer/)
+[Course Website](https://jenniferfjy.github.io/ai-summer/)
